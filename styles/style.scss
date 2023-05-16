@@ -21,15 +21,15 @@ header {
         width: 100vw;
         background: rgba(250, 250, 250, 0.1);
         height: 73px;
+        position:sticky;
     }
 
     .link {
         a {
             color: #FFFFFF;
             font-weight: 300;
-            margin-left: 20px;
+            margin-left: 20px;     
         }
-
         :hover {
             color: #57cbcc;
         }
